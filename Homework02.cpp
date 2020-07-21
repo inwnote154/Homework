@@ -22,7 +22,5 @@ void main()
 	total = salary + (sale*com_percent/100);
 	cout<<"Total Revenue "<<total<<" Bath\n";
 	cout<<"------------------------------------------------\n";
-	cout<<surname;
-	cout<<name;
 
 }
