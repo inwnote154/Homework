@@ -1,3 +1,4 @@
+#นาย นวพรรษ นกงาม 6306021620018 Sec 1RA
 num = int(input("Enter intenger number : "))
 
 a = int(num//1000)
